@@ -64,7 +64,7 @@ export const experiencesData = [
     date: "May 22 - Dec. 22",
   },
   {
-    title: "ElysIOT",
+    title: "ElysIot",
     location: "San Jose, CA, USA",
     description:
       "Worked as a Software Engineer Intern at ElysIOT.",
@@ -112,6 +112,7 @@ export const projectsData = [
       "Online Examination System built on the MERN stack, offering diverse question types, user authentication, and real-time quiz interactions for seamless scalability and engagement.",
     tags: ["React","MongoDB", "Express", "Node.js", "REST APIs","Bootstrap", "Socket.io","JSON Web Tokens"],
     imageUrl: online,
+    linkUrl:"",
   },
   {
     title: "Job Quest",
