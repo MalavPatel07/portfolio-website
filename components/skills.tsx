@@ -45,10 +45,7 @@ export default function Skills() {
             custom={index}
             title={skill}
           >
-           
-           
-
-            <img src={`${skill}.png`} alt={`Skill ${skill}`} title= {skill} style={{ width: "50px", height: "60px" }}/>
+          <img src={`${skill}.png`} alt={`Skill ${skill}`} title={skill} width="50" height="60" />
           </motion.li>
         ))}
       </ul>
